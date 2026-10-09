@@ -2,6 +2,9 @@
 
 Versions are vX.Y.Z: X for major updates, Y for minor updates, Z for bug fixes.
 
+## v1.1.3
+- Now requires Globed v2.2.2 or newer, the version this mod is built against (it needed v2.2.0 before)
+
 ## v1.1.2
 - Added the GitHub and Ko-fi buttons to the mod page
 - Added credit for Globed and its creators to the description
