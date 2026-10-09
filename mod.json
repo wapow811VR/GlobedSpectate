@@ -1,0 +1,40 @@
+{
+    "geode": "5.10.1",
+    "gd": {
+        "win": "2.2081"
+    },
+    "id": "wapow811.globed-spectate",
+    "name": "Globed Spectate",
+    "version": "v1.1.2",
+    "developer": "wapow811",
+    "description": "Spectate other players in a Globed level",
+    "links": {
+        "source": "https://github.com/wapow811VR/GlobedSpectate"
+    },
+    "dependencies": {
+        "dankmeme.globed2": ">=v2.2.0",
+        "geode.node-ids": ">=v1.10.0"
+    },
+    "settings": {
+        "keybinds-title": {
+            "type": "title",
+            "name": "Keybinds"
+        },
+        "key-next": {
+            "type": "keybind",
+            "name": "Spectate Next Player",
+            "description": "Starts spectating, or switches to the next player in the level",
+            "default": "]"
+        },
+        "key-prev": {
+            "type": "keybind",
+            "name": "Spectate Previous Player",
+            "default": "["
+        },
+        "key-stop": {
+            "type": "keybind",
+            "name": "Stop Spectating",
+            "default": "Backspace"
+        }
+    }
+}
