@@ -10,7 +10,8 @@ works and its known issues, and [changelog.md](changelog.md) for what changed in
 
 1. Install [Globed](https://globed.dev) from the Geode mod browser in game. This mod will not load
    without it.
-2. Put the `.geode` file for this mod in your Geometry Dash `geode/mods` folder and restart the game.
+2. Download [wapow811.globed-spectate.geode](release/wapow811.globed-spectate.geode) and put it in
+   your Geometry Dash `geode/mods` folder, then restart the game.
 
 ## Building
 
