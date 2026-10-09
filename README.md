@@ -6,6 +6,12 @@ A [Geode](https://geode-sdk.org) mod for Geometry Dash that lets you spectate ot
 Open the pause menu, press the spectate button and pick a player. See [about.md](about.md) for how it
 works and its known issues, and [changelog.md](changelog.md) for what changed in each version.
 
+## Installing
+
+1. Install [Globed](https://globed.dev) from the Geode mod browser in game. This mod will not load
+   without it.
+2. Put the `.geode` file for this mod in your Geometry Dash `geode/mods` folder and restart the game.
+
 ## Building
 
 Needs the Geode SDK (`GEODE_SDK` set), Globed v2.2.2 and Visual Studio Build Tools 2022 with a

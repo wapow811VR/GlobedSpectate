@@ -2,6 +2,9 @@
 
 Watch another player while you are in the same level on Globed.
 
+**You need [Globed](https://globed.dev) installed first.** Install it from the Geode mod browser
+before adding this mod.
+
 Open the pause menu and press the spectate button, then pick a player. Your own icon is hidden and
 glued to theirs, so the camera, portals and triggers follow what they are doing. The song follows
 them too. You can't die, finish the level or save progress while spectating, and the level restarts
